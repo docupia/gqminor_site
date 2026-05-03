@@ -6,6 +6,7 @@
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-quiet-appeal-of-a-man-who-has-himself-in-order.html
 ./articles/the-quiet-case-for-a-better-signature-scent.html
 ./articles/the-desk-as-private-architecture.html
 ./articles/a-private-room-built-around-color-speed-and-solitude.html
