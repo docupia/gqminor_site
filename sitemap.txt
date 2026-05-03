@@ -1,11 +1,13 @@
 # GQ Minor static sitemap
-# Built 2026-05-02
+# Built 2026-05-03
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-desk-as-private-architecture.html
+./articles/a-private-room-built-around-color-speed-and-solitude.html
 ./articles/why-a-small-camera-can-quiet-the-phone.html
 ./articles/what-mid-thirties-marriage-standards-really-signal.html
 ./articles/a-private-pilgrimage-to-animate-hongdae.html

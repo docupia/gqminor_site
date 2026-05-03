@@ -76,12 +76,12 @@ nav .nav-uniform { border-color: var(--uniform); }
 nav .nav-intimacy { border-color: var(--intimacy); }
 nav .nav-archived { border-color: var(--archived); }
 .hero {
-  min-height: 54vh;
+  min-height: 0;
   display: grid;
   grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
   gap: clamp(28px, 5vw, 72px);
   align-items: center;
-  padding: clamp(34px, 6vw, 72px) clamp(18px, 4vw, 56px);
+  padding: clamp(42px, 7vw, 88px) clamp(18px, 4vw, 56px);
   border-bottom: 1px solid var(--line);
 }
 h1, h2, h3, p { margin-top: 0; }
@@ -91,6 +91,10 @@ h1, h2, h3, p { margin-top: 0; }
   line-height: 0.95;
   letter-spacing: 0;
   max-width: 940px;
+}
+.home-page .hero h1 {
+  font-size: clamp(40px, 6vw, 82px);
+  max-width: 760px;
 }
 .dek, .subtitle {
   color: var(--muted);
