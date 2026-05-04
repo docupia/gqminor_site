@@ -1,11 +1,12 @@
 # GQ Minor static sitemap
-# Built 2026-05-03
+# Built 2026-05-04
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-venue-is-not-the-point.html
 ./articles/what-men-mean-when-they-call-someone-beautiful.html
 ./articles/the-quiet-appeal-of-a-man-who-has-himself-in-order.html
 ./articles/the-quiet-case-for-a-better-signature-scent.html
