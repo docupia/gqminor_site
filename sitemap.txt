@@ -6,6 +6,7 @@
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/when-the-best-trated-object-still-misses.html
 ./articles/a-restrained-spring-uniform-drawn-from-pinterest-logic.html
 ./articles/the-venue-is-not-the-point.html
 ./articles/what-men-mean-when-they-call-someone-beautiful.html
