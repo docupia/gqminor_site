@@ -1,11 +1,12 @@
 # GQ Minor static sitemap
-# Built 2026-05-05
+# Built 2026-05-08
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-case-for-fewer-better-style-rules.html
 ./articles/when-a-laptop-becomes-part-of-the-uniform.html
 ./articles/before-the-wardrobe-build-the-system.html
 ./articles/when-the-best-trated-object-still-misses.html
