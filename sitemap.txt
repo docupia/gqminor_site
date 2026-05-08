@@ -6,6 +6,7 @@
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-case-for-the-rational-smartphone.html
 ./articles/why-the-quiet-specialist-often-reads-well.html
 ./articles/the-april-boyfriend-uniform.html
 ./articles/the-case-for-the-short-sleeve-knit.html
