@@ -39,12 +39,24 @@ a { color: inherit; text-decoration: none; }
 .brand,
 .logo-mark {
   display: inline-flex;
-  align-items: flex-start;
+  align-items: center;
   width: fit-content;
   line-height: 1;
 }
-.brand { font-size: 28px; }
-.masthead.logo-mark { font-size: 34px; }
+.brand-logo {
+  display: block;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+.brand .brand-logo {
+  max-width: min(220px, 46vw);
+  max-height: 48px;
+}
+.masthead.logo-mark .brand-logo {
+  max-width: min(430px, 86vw);
+  max-height: 94px;
+}
 nav {
   display: flex;
   flex-wrap: wrap;
