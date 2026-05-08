@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/when-ai-is-framed-as-forced-retirement.html
 ./articles/strength-without-theater.html
 ./articles/when-movement-becomes-the-look.html
 ./articles/the-sofa-as-the-quiet-center-of-a-room.html
