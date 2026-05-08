@@ -6,6 +6,7 @@
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-minimalist-keyboard-as-work-system.html
 ./articles/the-case-for-fewer-better-style-rules.html
 ./articles/when-a-laptop-becomes-part-of-the-uniform.html
 ./articles/before-the-wardrobe-build-the-system.html
