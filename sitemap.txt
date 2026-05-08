@@ -1,4 +1,4 @@
-# the habitant static sitemap
+# The Habitant static sitemap
 # Built 2026-05-08
 ./index.html
 ./sections/studio.html
@@ -6,6 +6,11 @@
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./pages/about.html
+./pages/contact.html
+./pages/privacy.html
+./pages/affiliate-disclosure.html
+./articles/when-movement-becomes-the-look.html
 ./articles/the-sofa-as-the-quiet-center-of-a-room.html
 ./articles/the-case-for-the-rational-smartphone.html
 ./articles/why-the-quiet-specialist-often-reads-well.html
