@@ -1,4 +1,4 @@
-# GQ Minor static sitemap
+# the habitant static sitemap
 # Built 2026-05-08
 ./index.html
 ./sections/studio.html
@@ -6,6 +6,7 @@
 ./sections/uniform.html
 ./sections/intimacy.html
 ./sections/archived.html
+./articles/the-case-for-the-short-sleeve-knit.html
 ./articles/the-minimalist-keyboard-as-work-system.html
 ./articles/the-case-for-fewer-better-style-rules.html
 ./articles/when-a-laptop-becomes-part-of-the-uniform.html
