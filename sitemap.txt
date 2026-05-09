@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/in-the-ai-era-work-is-still-a-human-interior.html
 ./articles/the-discipline-of-a-99-failure-rate.html
 ./articles/poco-x8-pro-and-the-new-logic-of-the-workhorse-phone.html
 ./articles/a-sanctuary-built-from-fandom.html
