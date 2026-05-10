@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-09
+# Built 2026-05-10
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/a-low-pressure-approach-to-flirting-framed-for-adults.html
 ./articles/when-interest-turns-romantic-reading-a-shift-in-attraction.html
 ./articles/where-good-prospects-gather-and-why-place-still-matters.html
 ./articles/how-a-simple-room-becomes-a-youtube-home-studio.html
