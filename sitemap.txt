@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/2026-men-s-bags-trend-notes-and-useful-standouts.html
 ./articles/why-go-to-the-office-a-studio-view-of-focused-work.html
 ./articles/the-popcorn-bag-reconsidered-through-a-prada-lens.html
 ./articles/a-half-price-standbyme-go-alternative-tested-on-curiosity.html
