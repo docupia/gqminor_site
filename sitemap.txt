@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/the-popcorn-bag-reconsidered-through-a-prada-lens.html
 ./articles/a-half-price-standbyme-go-alternative-tested-on-curiosity.html
 ./articles/why-intelligent-men-read-as-more-attractive-on-a-date.html
 ./articles/an-australian-developer-s-return-to-work-layoff.html
