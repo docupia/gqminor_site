@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/why-a-cocoon-lamp-becomes-the-center-of-a-room.html
 ./articles/a-seoul-hideaway-built-for-quiet-sober-pleasure.html
 ./articles/inside-a-korean-creator-s-hard-won-workspace.html
 ./articles/an-interior-framed-by-masculinity-and-innocence.html
