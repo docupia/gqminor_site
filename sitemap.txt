@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/why-korean-20-and-30-somethings-are-leaving-meet-cute-dating-behind.html
 ./articles/why-a-cocoon-lamp-becomes-the-center-of-a-room.html
 ./articles/a-seoul-hideaway-built-for-quiet-sober-pleasure.html
 ./articles/inside-a-korean-creator-s-hard-won-workspace.html
