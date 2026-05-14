@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/inside-a-korean-creator-s-hard-won-workspace.html
 ./articles/an-interior-framed-by-masculinity-and-innocence.html
 ./articles/neither-extrovert-nor-introvert-the-case-for-comfortable-solitude.html
 ./articles/four-principles-for-building-a-personal-style-that-lasts.html
