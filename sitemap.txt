@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-13
+# Built 2026-05-14
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/an-interior-framed-by-masculinity-and-innocence.html
 ./articles/neither-extrovert-nor-introvert-the-case-for-comfortable-solitude.html
 ./articles/four-principles-for-building-a-personal-style-that-lasts.html
 ./articles/the-three-core-suit-colors-every-man-should-know.html
