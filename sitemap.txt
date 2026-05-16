@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-15
+# Built 2026-05-16
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/why-the-right-shirt-changes-a-fuller-midsection.html
 ./articles/why-a-hobby-changes-the-tone-of-attraction.html
 ./articles/musinsa-standard-super-sale-11-men-s-basics-worth-noting.html
 ./articles/why-korean-20-and-30-somethings-are-leaving-meet-cute-dating-behind.html
