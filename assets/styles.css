@@ -311,6 +311,15 @@ h1, h2, h3, p { margin-top: 0; }
   color: var(--muted);
   border-bottom: 1px solid var(--line);
 }
+.ad-slot {
+  margin: 0 0 24px;
+  min-height: 90px;
+}
+.source-ad {
+  border: 1px solid var(--line);
+  background: var(--white);
+  padding: 12px;
+}
 .hero-placeholder { min-height: 360px; background: linear-gradient(135deg, #151515, #6f6a62); }
 .prose {
   max-width: 760px;
