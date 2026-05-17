@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-16
+# Built 2026-05-17
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/how-to-make-a-home-interior-feel-more-like-a-hotel.html
 ./articles/eight-travel-essentials-for-men-who-pack-to-last.html
 ./articles/why-the-right-shirt-changes-a-fuller-midsection.html
 ./articles/why-a-hobby-changes-the-tone-of-attraction.html
