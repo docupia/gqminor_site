@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/a-solid-wood-wfh-desk-setup-with-no-cable-clutter.html
 ./articles/why-this-wangsimni-rental-interior-feels-so-arresting.html
 ./articles/how-to-make-a-home-interior-feel-more-like-a-hotel.html
 ./articles/eight-travel-essentials-for-men-who-pack-to-last.html
