@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-17
+# Built 2026-05-18
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/a-small-room-gaming-desk-setup-with-real-editorial-discipline.html
 ./articles/a-solid-wood-wfh-desk-setup-with-no-cable-clutter.html
 ./articles/why-this-wangsimni-rental-interior-feels-so-arresting.html
 ./articles/how-to-make-a-home-interior-feel-more-like-a-hotel.html
