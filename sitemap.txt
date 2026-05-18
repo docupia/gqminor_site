@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/why-a-37-year-old-renter-built-a-lego-life-at-home.html
 ./articles/what-matters-more-than-age-in-male-attraction.html
 ./articles/a-small-room-gaming-desk-setup-with-real-editorial-discipline.html
 ./articles/a-solid-wood-wfh-desk-setup-with-no-cable-clutter.html
