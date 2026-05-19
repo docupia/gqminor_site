@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-18
+# Built 2026-05-19
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/insta360-mic-pro-and-the-logic-of-a-closed-creator-system.html
 ./articles/why-couples-often-break-up-at-year-end.html
 ./articles/why-photography-remains-the-ideal-serious-hobby.html
 ./articles/why-a-37-year-old-renter-built-a-lego-life-at-home.html
