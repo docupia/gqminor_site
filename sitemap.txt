@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-20
+# Built 2026-05-22
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/a-freelancer-s-gaming-room-desk-tour-read-as-a-work-system.html
 ./articles/a-dual-monitor-setup-that-questions-feature-creep.html
 ./articles/insta360-mic-pro-and-the-logic-of-a-closed-creator-system.html
 ./articles/why-couples-often-break-up-at-year-end.html
