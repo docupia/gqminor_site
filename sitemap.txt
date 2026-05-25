@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-23
+# Built 2026-05-25
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/what-a-berlin-club-door-reveals-about-modern-dating.html
 ./articles/a-hybrid-mac-and-pc-desk-built-around-the-vernal-core-3.html
 ./articles/what-a-seven-day-bunker-stay-reveals-about-retreat.html
 ./articles/a-freelancer-s-gaming-room-desk-tour-read-as-a-work-system.html
