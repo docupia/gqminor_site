@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/the-signals-men-miss-when-women-make-the-first-move.html
 ./articles/what-male-charm-actually-looks-like-on-a-date.html
 ./articles/what-a-berlin-club-door-reveals-about-modern-dating.html
 ./articles/a-hybrid-mac-and-pc-desk-built-around-the-vernal-core-3.html
