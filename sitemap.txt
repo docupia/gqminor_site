@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/three-style-principles-for-the-middle-aged-man-with-a-belly.html
 ./articles/military-winter-outerwear-beyond-puffer-jackets-and-coats.html
 ./articles/17-summer-accessories-that-define-a-sharper-men-s-uniform.html
 ./articles/the-signals-men-miss-when-women-make-the-first-move.html
