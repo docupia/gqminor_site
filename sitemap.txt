@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-05-27
+# Built 2026-05-28
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/how-men-s-style-should-change-after-40.html
 ./articles/three-style-principles-for-the-middle-aged-man-with-a-belly.html
 ./articles/military-winter-outerwear-beyond-puffer-jackets-and-coats.html
 ./articles/17-summer-accessories-that-define-a-sharper-men-s-uniform.html
