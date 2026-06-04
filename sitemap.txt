@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-06-01
+# Built 2026-06-04
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/the-work-aesthetic-behind-korea-s-get-rich-fast-creator-culture.html
 ./articles/a-dream-office-desk-setup-framed-as-a-gesture.html
 ./articles/first-time-intimacy-requires-judgment-not-performance.html
 ./articles/how-men-s-style-should-change-after-40.html
