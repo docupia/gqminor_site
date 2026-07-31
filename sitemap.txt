@@ -1,5 +1,5 @@
 # The Habitant static sitemap
-# Built 2026-06-10
+# Built 2026-07-31
 ./index.html
 ./sections/studio.html
 ./sections/sanctuary.html
@@ -10,6 +10,7 @@
 ./pages/contact.html
 ./pages/privacy.html
 ./pages/affiliate-disclosure.html
+./articles/if-i-started-my-watch-collection-over-in-2026-these-are-the-7-i-d-buy.html
 ./articles/why-a-good-underwear-review-belongs-in-men-s-style.html
 ./articles/the-work-aesthetic-behind-korea-s-get-rich-fast-creator-culture.html
 ./articles/a-dream-office-desk-setup-framed-as-a-gesture.html
